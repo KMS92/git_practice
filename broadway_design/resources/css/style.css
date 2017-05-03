@@ -34,6 +34,15 @@ span{
   font-weight: normal;
 }
 
+#header{
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+#midder{
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
 #footer{
   background-color: dimgray;
   text-align: left;
