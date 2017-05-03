@@ -1,0 +1,40 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+}
+
+span{
+  font-size: 11px;
+  color: white;
+  font-weight: normal;
+}
+
+#footer{
+  background-color: dimgray;
+  text-align: left;
+}
